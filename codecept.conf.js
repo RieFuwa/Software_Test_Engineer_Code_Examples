@@ -12,5 +12,5 @@ exports.config = {
   },
   bootstrap: null,
   mocha: {},
-  name: 'Test'
+  name: 'Software_Test_Engineer_Code_Examples'
 }
