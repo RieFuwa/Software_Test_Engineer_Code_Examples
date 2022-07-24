@@ -7,7 +7,7 @@
 ### `5-) npm install codeceptjs`
 ### `6-) npx codeceptjs init`
 
-# Another Terminal for Server:
+# Starting the Server:
 ### `3-) npx selenium-standalone install`
 ### `4-) npx selenium-standalone start`
 
